@@ -4,8 +4,8 @@
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/MiniBlogApp.git
-   cd MiniBlogApp
+   git clone https://github.com/yourusername/mini-blog.git
+   cd mini-blog
    ```
 
 2. Install dependencies:
